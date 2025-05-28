@@ -8,10 +8,17 @@
 		<version>3.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+<<<<<<< HEAD
 	<groupId>com.example</groupId>
 	<artifactId>contrucao_API-controle.estoque</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>contrucao_API-controle.estoque</name>
+=======
+	<groupId>com.escola</groupId>
+	<artifactId>Escola</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Escola</name>
+>>>>>>> 7382bcbdd07c9f108301a93561a84526080ef5b1
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -29,7 +36,11 @@
 	<properties>
 		<java.version>21</java.version>
 	</properties>
+<<<<<<< HEAD
 	<dependencies>
+=======
+	<dependencies> 
+>>>>>>> 7382bcbdd07c9f108301a93561a84526080ef5b1
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -54,6 +65,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
 	
    <dependency>
      <groupId>io.cronapp</groupId>
@@ -61,6 +73,14 @@
      <version>3.2.1-SP.6</version>
    </dependency>
  </dependencies>
+=======
+		<dependency>
+      		<groupId>org.springdoc</groupId>
+      		<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+      		<version>2.8.8</version>
+   		</dependency>
+	</dependencies>
+>>>>>>> 7382bcbdd07c9f108301a93561a84526080ef5b1
 
 	<build>
 		<plugins>
@@ -91,4 +111,8 @@
 		</plugins>
 	</build>
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> 7382bcbdd07c9f108301a93561a84526080ef5b1
